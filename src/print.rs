@@ -5,5 +5,5 @@ pub fn run() {
     println!("Number {}", 1);
 
     //Basic Formating 
-    println!("My name is {}","Constantine");
+    println!("My name is {}","C");
 }
